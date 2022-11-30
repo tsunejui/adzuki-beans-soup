@@ -7,7 +7,7 @@
 3. 錫箔紙
 4. 筷子
 
-# Preparationn 事前準備
+# Preparation 事前準備
 > 紅豆:水 是 1:3
 
 1. 紅豆600g
